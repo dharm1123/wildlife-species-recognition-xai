@@ -1,0 +1,8 @@
+animals/
+img/
+*.h5
+*.keras
+data/
+outputs/
+__pycache__/
+.ipynb_checkpoints/
