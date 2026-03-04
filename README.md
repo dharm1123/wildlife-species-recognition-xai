@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="assets/banner.png" width="1000">
+</p>
+
+<h1 align="center">
+Wildlife Species Recognition using Deep Learning (EfficientNet + XAI)
+</h1>
+
+<p align="center">
+Deep learning system that identifies ~90 wildlife species from images and explains predictions using Grad-CAM.
+</p>
+
 # 🐾 Wildlife Species Recognition using Deep Learning (EfficientNet + XAI)
 
 <p align="center">
