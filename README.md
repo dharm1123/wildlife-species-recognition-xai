@@ -1,9 +1,4 @@
-<img width="547" height="413" alt="image" src="https://github.com/user-attachments/assets/8f3c9998-e7a2-44ca-9c4d-fd17d0e4b793" /># 
-🐾 Wildlife Species Recognition using Deep Learning (EfficientNet + XAI)
-
-<p align="center">
-  <img src="assets/prediction_demo.png" width="600"/>
-</p>
+# 🐾 Wildlife Species Recognition using Deep Learning (EfficientNet + XAI)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python">
